@@ -7,7 +7,7 @@ spring:
     name: USER-SERVICE
 
   datasource:
-    url: jdbc:mysql://192.168.29.209/microservices
+    url: jdbc:mysql://192.168.29.209:3306/microservices
     username: root
     password: Khushi@17
     driver-class-name: com.mysql.cj.jdbc.Driver
